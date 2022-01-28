@@ -6,3 +6,5 @@ What happens there is difference between file and github repo?
 
 
 Resolving a github issue/ticket
+
+To resolve the issue: Testing another issue #8
