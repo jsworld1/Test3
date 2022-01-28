@@ -8,3 +8,5 @@ If the file in the system was not updated according to the latest version of the
 
 
 Resolving a github issue/ticket
+
+To resolve the issue: Testing another issue #8
